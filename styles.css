@@ -17,10 +17,11 @@ body{
 
 .hills{
     background: url('images/pattern-hills.svg');
+    display: flex;
     height: 30%;
     width: 100%;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-position: 0 460px;
 }
 
 .container{
