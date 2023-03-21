@@ -82,3 +82,8 @@ h3{
 a{
      margin: 0 14px;
 }
+
+.hov:hover {
+    filter: hue-rotate(95deg); /*altera a matriz da cor d SVG se ela já tiver uma*/
+    transition: all 100ms;
+  }
