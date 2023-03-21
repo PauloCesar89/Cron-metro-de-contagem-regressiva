@@ -87,3 +87,23 @@ a{
     filter: hue-rotate(95deg); /*altera a matriz da cor d SVG se ela já tiver uma*/
     transition: all 100ms;
   }
+
+  /* max-width  */
+@media screen and (max-width: 640px) {
+
+    h1{
+        text-align: center;
+        height: 5rem;
+        width: 20rem;
+    }
+
+    .card{
+        height: 100px;
+        width: 100px;
+        margin: 6px;
+    }
+
+    h3{
+        font-size: 40px;
+    }
+}
