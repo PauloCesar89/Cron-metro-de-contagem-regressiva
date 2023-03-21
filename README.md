@@ -1,4 +1,4 @@
-# App Calculadora
+# Cronômetro de contagem regressiva
 
 Cronometro de contagem regressiva fazendo a contagem até o dia 31/12/2023.
 
