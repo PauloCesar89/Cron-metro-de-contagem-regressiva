@@ -6,6 +6,7 @@ Cronometro de contagem regressiva fazendo a contagem até o dia 31/12/2023.
 ## Funcionalidades
 
 •	Icones de redes socias.
+
 •	Ajuste de tela de acordo com a tela do dispositivo.
 
 
