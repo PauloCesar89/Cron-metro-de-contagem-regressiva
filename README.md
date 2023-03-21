@@ -1,6 +1,6 @@
 # Cronômetro de contagem regressiva
 
-Cronometro de contagem regressiva fazendo a contagem até o dia 31/12/2023.
+Cronometro de contagem regressiva com data marcada para encerrar no dia 31/12/2023.
 
 
 ## Funcionalidades
@@ -8,6 +8,8 @@ Cronometro de contagem regressiva fazendo a contagem até o dia 31/12/2023.
 •	Icones de redes socias que alteram a cor quando passa o cursor do mouse em cima.
 
 •	Ajuste de tela de acordo com a tela do dispositivo.
+
+•	Display mostra dias, horas, minutos e segundos para o encerramento do tempo na data definida (31/12/2023).
 
 
 ## Deploy 🚀
