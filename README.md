@@ -40,4 +40,4 @@ Para fazer o deploy desse projeto rode
 
 ## Referência
 
- - [https://www.frontendmentor.io/challenges)]
+ - [https://www.frontendmentor.io/challenges]
