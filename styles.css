@@ -94,7 +94,10 @@ a{
     h1{
         text-align: center;
         height: 5rem;
-        width: 20rem;
+        width: 15rem;
+        font-size: 15px;
+        margin: 80px 0px 10px 0;
+        
     }
 
     .card{
@@ -108,11 +111,9 @@ a{
     }
 
     h2{
+        margin-top: 10px;
         font-size: 5px;
         letter-spacing: 3px;
     }
 
-    .hills{
-        width: 100%;
-    }
 }
