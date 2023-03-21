@@ -98,12 +98,21 @@ a{
     }
 
     .card{
-        height: 90px;
-        width: 90px;
+        height: 60px;
+        width: 60px;
         margin: 6px;
     }
 
     h3{
-        font-size: 40px;
+        font-size: 30px;
+    }
+
+    h2{
+        font-size: 5px;
+        letter-spacing: 3px;
+    }
+
+    .hills{
+        width: 100%;
     }
 }
